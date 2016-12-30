@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 100vw;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+}
+
+h2 {
+	color: #7d97ad;
+}
+
+img {
+	max-width: 100%;
+}
+
+#img-main {
+	padding-top:20px;
+}
+
+.separator {
+	border-top: 3px solid #7d97ad;
+}
+
+#project {
+	text-align: center;
+}
+
+#project img {
+	padding-top: 10px;
+}
+
+#logo {
+	max-height: 100px;
+	min-width: 50px;
+	padding-top: 20px;
+}
+
+.carousel-caption {
+	text-shadow: 2px 2px #000;
+}
